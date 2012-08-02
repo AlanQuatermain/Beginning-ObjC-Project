@@ -1,0 +1,3 @@
+/* Localized versions of Info.plist keys */
+
+"NSContactsUsageDescription" = "Your contacts data in this application will be populated using data from your Address Book.";
